@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm AnsJDev</h1>
-<h3 align="center">I am a JavaScript programmer and a technology enthusiast!</h3>
+<h3 align="center">I am a Java and JavaScript programmer and technology enthusiast!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
